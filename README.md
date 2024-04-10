@@ -10,7 +10,11 @@ My Skills:
 My site:
 
 [![Static Badge](https://img.shields.io/badge/LEEYEUNG-mysite?color=%23d6dbdc&link=https%3A%2F%2Fleeyeung.vercel.app%2F)
-](https://leeyeung.vercel.app/)
+](https://leeyeung.vercel.app/)    [![Static Badge](https://img.shields.io/badge/myblog-blog?color=%23526cfe)
+
+](LeeYeungYeung.github.io/law)
+
+
 <!--
 **LeeYeungYeung/LeeYeungYeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
