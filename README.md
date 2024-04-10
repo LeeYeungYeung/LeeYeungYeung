@@ -8,7 +8,8 @@ My Skills：
 
 
 My site:
-[LEEYEUNG](https://leeyeung.vercel.app/)
+[![Static Badge](https://img.shields.io/badge/LEEYEUNG-mysite?color=%23d6dbdc&link=https%3A%2F%2Fleeyeung.vercel.app%2F)
+](https://leeyeung.vercel.app/)
 <!--
 **LeeYeungYeung/LeeYeungYeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
