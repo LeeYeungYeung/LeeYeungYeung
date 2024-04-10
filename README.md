@@ -9,7 +9,7 @@ My Skills:
 
 My site:
 
-[![Static Badge](https://img.shields.io/badge/LEEYEUNG-mysite?color=%23d6dbdc&link=https%3A%2F%2Fleeyeung.vercel.app%2F)](https://leeyeung.vercel.app/)，[![Static Badge](https://img.shields.io/badge/myblog-blog?color=%23526cfe)](LeeYeungYeung.github.io/law)
+[![Static Badge](https://img.shields.io/badge/LEEYEUNG-mysite?color=%23d6dbdc&link=https%3A%2F%2Fleeyeung.vercel.app%2F)](https://leeyeung.vercel.app/)，[![Static Badge](https://img.shields.io/badge/MYBLOG-blog?color=%23526cfe)](LeeYeungYeung.github.io/law)
 
 
 <!--
