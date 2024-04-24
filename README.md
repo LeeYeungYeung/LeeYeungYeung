@@ -8,7 +8,7 @@ My Skills:
 
 `python`, `Java`, `c++`, `C#`, `JavaScript`
 
-<a title=“Facebook， Public domain， via Wikimedia Commons” href=“https://commons.wikimedia.org/wiki/File:React-icon.svg”><img width=“512” alt=“React-icon” src=“https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png”></a>
+<img width=“512” alt=“React-icon” src=“https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png”>
 
 
 My site:
