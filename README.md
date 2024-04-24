@@ -6,6 +6,10 @@ My Skills:
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
+`python`, `Java`, `c++`, `C#`, `JavaScript`
+
+<a title=“Facebook， Public domain， via Wikimedia Commons” href=“https://commons.wikimedia.org/wiki/File:React-icon.svg”><img width=“512” alt=“React-icon” src=“https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png”></a>,
+
 
 My site:
 
