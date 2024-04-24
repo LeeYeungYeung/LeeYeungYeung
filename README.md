@@ -8,7 +8,7 @@ My Skills:
 
 `python`, `Java`, `c++`, `C#`, `JavaScript`
 
-<a title="Facebook, Public domain, via Wikimedia Commons" href="https://react.dev/"><img width="32" alt="React-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png"></a>,   <a title="Qt Group, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Qt_logo_neon_2022.svg"><img width="128" alt="Qt logo neon 2022" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/128px-Qt_logo_neon_2022.svg.png"></a>
+<a title="Facebook, Public domain, via Wikimedia Commons" href="https://react.dev/"><img width="32" alt="React-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/32px-React-icon.svg.png"></a>,   <a title="Qt Group, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Qt_logo_neon_2022.svg"><img width="32" alt="Qt logo neon 2022" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/128px-Qt_logo_neon_2022.svg.png"></a>
 
 My site:
 
